@@ -89,7 +89,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'tusharedata',#数据库名
         'USER':'root',#数据库用户名
-        'PASSWORD':'zjz4818774',#数据库密码
+        'PASSWORD':'',#数据库密码
         'HOST':'127.0.0.1',#数据库地址不写为本地
         'PORT':'3306' #数据库端口
     }
