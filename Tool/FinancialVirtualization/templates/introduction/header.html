@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>首页</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Ekomers Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="../../static/introduction/css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- Custom Theme files -->
+<link href="../../static/introduction/css/style.css" rel='stylesheet' type='text/css' />
+<!-- Custom Theme files -->
+<!--webfont-->
+<link href='http://fonts.useso.com/css?family=Raleway:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.useso.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="../../static/introduction/js/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+<div class="login_header">
+	  	<div class="container">
+	  		<div class="header_top">
+			<div class="logo">
+				<a href="index.html"><img src="../../static/introduction/images/logo.png" alt=""/></a>
+			</div>
+			<div class="top-nav">
+				<span class="menu"><img src="../../static/introduction/images/menu.png" alt=""/></span>
+				<ul class="nav1">
+					<li><a href="index.html" class="active">Home </a></li>
+					<li><a href="#method" class="scroll">Features</a></li>
+					<li><a href="#cases" class="scroll">Pricing</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+				<!-- script-for-menu -->
+				 <script>
+				   $( "span.menu" ).click(function() {
+					 $( "ul.nav1" ).slideToggle( 300, function() {
+					 // Animation complete.
+					  });
+					 });
+				</script>
+				<!-- /script-for-menu -->
+			</div>
+			<ul class="widget">
+				<a href="register.html"><li class="join">Join Now</li></a>
+				<a href="login.html"><li class="login">Login</li></a>
+			</ul>
+			<div class="clearfix"> </div>
+		</div>
+       </div>
+      </div>
+{% block content %} {% endblock %}
+
+{% include "footer.html" %}
+</body>
+</html>

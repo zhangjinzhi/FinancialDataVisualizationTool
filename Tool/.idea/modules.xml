@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BiShe.iml" filepath="$PROJECT_DIR$/.idea/BiShe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FTP_requests/.idea/FTP_requests.iml" filepath="$PROJECT_DIR$/../FTP_requests/.idea/FTP_requests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JDcompetition/.idea/JDcompetition.iml" filepath="$PROJECT_DIR$/../JDcompetition/.idea/JDcompetition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bokeh_examples/.idea/bokeh_examples.iml" filepath="$PROJECT_DIR$/../bokeh_examples/.idea/bokeh_examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fbprophet_examples/.idea/fbprophet_examples.iml" filepath="$PROJECT_DIR$/../fbprophet_examples/.idea/fbprophet_examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Windows/PycharmProject/gallery/.idea/gallery.iml" filepath="$PROJECT_DIR$/../Windows/PycharmProject/gallery/.idea/gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../plotly_example/.idea/plotly_example.iml" filepath="$PROJECT_DIR$/../plotly_example/.idea/plotly_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../talib/.idea/talib.iml" filepath="$PROJECT_DIR$/../talib/.idea/talib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tushare/.idea/tushare.iml" filepath="$PROJECT_DIR$/../tushare/.idea/tushare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zipline_examples/.idea/zipline_examples.iml" filepath="$PROJECT_DIR$/../zipline_examples/.idea/zipline_examples.iml" />
+    </modules>
+  </component>
+</project>
